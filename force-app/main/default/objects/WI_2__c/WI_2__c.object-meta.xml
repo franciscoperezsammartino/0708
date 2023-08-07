@@ -158,6 +158,7 @@
         <label>WI-2 Name</label>
         <type>Text</type>
     </nameField>
+    <description>new desc</description>
     <pluralLabel>plural</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
