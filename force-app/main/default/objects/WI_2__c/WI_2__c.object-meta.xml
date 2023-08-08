@@ -159,7 +159,7 @@
         <type>Text</type>
     </nameField>
     <description>new desc</description>
-    <pluralLabel>plural</pluralLabel>
+    <pluralLabel>plural - change</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
