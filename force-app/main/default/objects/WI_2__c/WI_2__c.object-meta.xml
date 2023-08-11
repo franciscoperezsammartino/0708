@@ -158,7 +158,7 @@
         <label>WI-2 Name</label>
         <type>Text</type>
     </nameField>
-    <description>new desc 2</description>
+    <description>WI-5 update desc</description>
     <pluralLabel>plural - change</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
