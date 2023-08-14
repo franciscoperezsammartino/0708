@@ -158,7 +158,7 @@
         <label>obj9real Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>plural - updated13 - CHANGE1</pluralLabel>
+    <pluralLabel>plural - updated13 - CHANGE2</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
