@@ -158,7 +158,7 @@
         <label>WI-1 Name</label>
         <type>Text</type>
     </nameField>
-    <description>CHANGE_DESC_2</description>
+    <description>CHANGE_FROMOTEHR-RESOLVE</description>
     <pluralLabel>plural</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
